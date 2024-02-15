@@ -1,6 +1,6 @@
 public class MaxSubarraySum {
     public static void main(String[] args) {
-        int[] arr = { -2, -3, 4, -1, -2, 1, 5, -3 }; // Example array, replace it with your array
+        int[] arr = { -2, -3, 4, -1, -2, 1, 5, -3 }; 
         
         int maxEndingHere = arr[0];
         int maxSoFar = arr[0];
